@@ -17,5 +17,3 @@ Hello I m, Rizki Ardiansyah
 
 ---
 [![](https://komarev.com/ghpvc/?username=codrizsain&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
